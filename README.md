@@ -1,6 +1,6 @@
 # 🌸 Portfólio Moisés Filipe
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ff6b9d?style=for-the-badge)](https://moisesfilipe.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ff6b9d?style=for-the-badge)]([https://moisesfilipe.dev](https://omoshaa.github.io/portfolio/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moisés-filipe-568412297/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/omoshaa)
 
