@@ -2,6 +2,12 @@
 
 Um portfólio moderno e responsivo desenvolvido para apresentar minha jornada como Desenvolvedor Full Stack.
 
+## 🌐 Ver Portfólio Online
+
+👉 **[🚀 ACESSAR PORTFÓLIO ONLINE](https://omoshaa.github.io/portfolio/)**
+
+_Clique no link acima para visualizar o portfólio completo e interativo!_
+
 ## 🚀 Sobre o Projeto
 
 Este portfólio foi desenvolvido com HTML5, CSS3 e JavaScript puro, focando em uma experiência de usuário fluida e design moderno. O site apresenta minhas habilidades, experiências e projetos de forma interativa e profissional.
@@ -95,7 +101,7 @@ Para executar este projeto localmente, você precisa apenas de um navegador web 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/portfolio.git
+   git clone https://github.com/omoshaa/portfolio.git
    ```
 
 2. **Navegue até o diretório:**
@@ -188,8 +194,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Moisés Filipe** - Desenvolvedor Full Stack
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-filipe-568412297/)
-- 📧 Email: [Através do formulário de contato](https://moisesfilipe.dev#contact)
-- 🌐 Site: [moisesfilipe.dev](https://moisesfilipe.dev)
+- 📧 Email: [Através do formulário de contato](https://omoshaa.github.io/portfolio/#contact)
+- 🌐 Site: [omoshaa.github.io/portfolio](https://omoshaa.github.io/portfolio/)
+- 🐙 GitHub: [github.com/omoshaa](https://github.com/omoshaa)
 
 ---
 
